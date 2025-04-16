@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+scipy==1.15.2
+scanpy==1.11.0
+networkx==3.4.2
+numpy
+pandas
+tqdm
+=======
+numpy>=1.21
+pandas>=1.4.0
+networkx>=3.0
+tqdm>=4.64.0
+torch>=2.0.0
+torch-geometric>=2.3.0
+scanpy>=1.9.0
+scikit-learn>=1.2.0
+
+node2vec>=0.4.1 
+geoopt>=0.3.0    
+>>>>>>> 5e4f2eb (041501)
