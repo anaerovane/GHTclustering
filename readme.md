@@ -1,6 +1,6 @@
 # scGHT
 
-This repository provides an enhanced implementation of the scGHT (Single-cell Gomory-Hu Tree) framework for single-cell data clustering optimization. The framework includes two main components: **global optimization** (all) and **single-cluster optimization** (part). The goal is to refine cluster boundaries using a combination of graph-based methods, GAE/VGAE embeddings, and attention mechanisms.
+This repository presents an enhanced implementation of a novel framework for optimizing clustering results across various data modalities. The framework incorporates two primary optimization strategies: a global approach targeting overall cluster structure, and a local approach focused on refining individual cluster boundaries. This optimization process leverages a combination of graph-based methodologies, embedding techniques (such as those inspired by Graph Autoencoders/Variational Graph Autoencoders), and attention mechanisms to achieve more coherent and well-separated clusters in the data.
 
 ## Features
 
